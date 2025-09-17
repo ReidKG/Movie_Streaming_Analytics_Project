@@ -1,0 +1,11 @@
+movie_id,title,genre,release_year,rating,revenue_million,studio
+1,Inception,Sci-Fi,2010,8.8,829,Warner Bros
+2,Titanic,Romance,1997,7.8,2187,Paramount
+3,Avengers: Endgame,Action,2019,8.4,2798,Disney
+4,The Dark Knight,Action,2008,9.0,1005,Warner Bros
+5,Frozen,Animation,2013,7.5,1280,Disney
+6,The Lion King,Animation,1994,8.5,1657,Disney
+7,Jurassic Park,Adventure,1993,8.1,1045,Universal
+8,The Matrix,Sci-Fi,1999,8.7,466,Warner Bros
+9,Black Panther,Action,2018,7.3,1347,Disney
+10,Interstellar,Sci-Fi,2014,8.6,677,Paramount
