@@ -89,10 +89,3 @@ ORDER BY avg_watch_time DESC;
 - Translating **business-style questions** into SQL  
 
 ---
-
-## 📎 Next Steps  
-- Build dashboards in **Power BI** or **Tableau**  
-- Add **visualizations** (streams per year, genre breakdown, top movies)  
-- Extend dataset with **user demographics** for deeper insights  
-
---- 
