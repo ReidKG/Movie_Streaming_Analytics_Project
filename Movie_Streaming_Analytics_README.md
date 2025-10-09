@@ -95,6 +95,4 @@ ORDER BY avg_watch_time DESC;
 - Add **visualizations** (streams per year, genre breakdown, top movies)  
 - Extend dataset with **user demographics** for deeper insights  
 
----
-
-👉 This project is a **mock portfolio example** to demonstrate SQL skills.  
+--- 
